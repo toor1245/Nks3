@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hq0luR+PWdQc411mEGNp2tAzq8Pd2rsBmtZ55Jn1/CDRpS9shid2pcK631aqQelii5kkzqCq4pdnsUDYUaQ9iA==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet-learning\\src\\Nks3\\Nks3\\Nks3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

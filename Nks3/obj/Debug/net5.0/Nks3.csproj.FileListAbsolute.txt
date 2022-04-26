@@ -1,0 +1,16 @@
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.csproj.AssemblyReference.cache
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.AssemblyInfoInputs.cache
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.AssemblyInfo.cs
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.csproj.CoreCompileInputs.cache
+D:\dotnet-learning\src\Nks3\Nks3\bin\Debug\net5.0\Nks3.exe
+D:\dotnet-learning\src\Nks3\Nks3\bin\Debug\net5.0\Nks3.deps.json
+D:\dotnet-learning\src\Nks3\Nks3\bin\Debug\net5.0\Nks3.runtimeconfig.json
+D:\dotnet-learning\src\Nks3\Nks3\bin\Debug\net5.0\Nks3.runtimeconfig.dev.json
+D:\dotnet-learning\src\Nks3\Nks3\bin\Debug\net5.0\Nks3.dll
+D:\dotnet-learning\src\Nks3\Nks3\bin\Debug\net5.0\Nks3.pdb
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.dll
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\refint\Nks3.dll
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.pdb
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\Nks3.genruntimeconfig.cache
+D:\dotnet-learning\src\Nks3\Nks3\obj\Debug\net5.0\ref\Nks3.dll
